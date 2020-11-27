@@ -4,15 +4,15 @@ Title: Calculates costs and willingness to pay for interhemispheric trade of ele
 Version: 0.1.0
 Author: Williges, K. and Lopez-Prol, J.
 Maintainer: Keith Williges <kawilliges@gmail.com>
-Depends: dplyr, raster, rgdal, lubridate
-Description: Calculates (for all locations on the globe) the potential cost of 
+Depends: dplyr, raster, sf, lubridate
+Description: Calculates (for all locations on the globe) the potential cost of
     PV electricity, PV coverage, and unit cost of electricity for an autarky
-    (no trade) case, as well as the respective results in cases of 
-    interhemispheric (e.g. N-S, E-W, global grid) trade. The package requires 
-    input data in the form of global potential PV production, the calculated 
+    (no trade) case, as well as the respective results in cases of
+    interhemispheric (e.g. N-S, E-W, global grid) trade. The package requires
+    input data in the form of global potential PV production, the calculated
     size of a winter hole, and calculated values of S/G and overcapacity factor
-    (OCF). Additionally, the user supplies the estimated costs of baselaod / 
-    backup generation, capital recovery factors for PV and baseload, and the 
+    (OCF). Additionally, the user supplies the estimated costs of baselaod /
+    backup generation, capital recovery factors for PV and baseload, and the
     spatial extent (min/max latitude) of interest.
 License: What license is it under?
 Encoding: UTF-8
