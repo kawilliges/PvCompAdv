@@ -16,7 +16,7 @@
 
 getBasemap <- function(){
   # For mapping, loads the background shapefile
-  return(readOGR('./Data/basemap/Country-Land.shp'))
+  return(read_sf('./Data/basemap/Country-Land.shp'))
 }
 
 getPvMap <- function(){

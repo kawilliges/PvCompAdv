@@ -19,7 +19,7 @@ library(dplyr)
 library(raster)
 library(leaflet)
 library(devtools)
-library(PVcompAdv)
+# (PVcompAdv)
 
 devtools::install_github('kawilliges/PvCompAdv',
                          auth_token = "9ab3ddfae43708fba5e4963d3314e2813f84f6ac",
