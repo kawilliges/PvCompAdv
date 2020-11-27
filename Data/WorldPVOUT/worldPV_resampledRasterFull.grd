@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2019-06-29 21:59:00
+[georeference]
+nrows=133
+ncols=360
+xmin=-179.5
+ymin=-66.5
+xmax=180.5
+ymax=66.5
+projection=+proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=1.01549994945554
+maxvalue=6.64024996757507
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=PVOUT
