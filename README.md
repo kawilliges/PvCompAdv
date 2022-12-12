@@ -20,7 +20,7 @@ Due to technical issues, installation and execution of replication of an R packa
 
 In order to replicate the results found in the manuscript, an installed copy of RStudio is required. Additionally, [installation of RTools](https://cran.r-project.org/bin/windows/Rtools/rtools42/rtools.html) is required, to install the package developed for the manuscript from source code.
 
-1. Install RTools, a set of programs required on Windows to build R packages from source, if necessary
+1. Install RTools, a set of programs required on Windows to build R packages from source, if necessary; the download location can be found [here](https://cran.r-project.org/bin/windows/Rtools/rtools42/rtools.htlm)
   	* for installation instructions, see [this installation page](https://ohdsi.github.io/Hades/rSetup.html), subheading "Installing RTools"
 2. Open the R script `results_replication.R`
 3. Install required libraries by running the R environment setup code found at the beginning of the file (Run the script to line XX)
