@@ -1,5 +1,5 @@
-# PvCompAdv
-### Package containing R scripts used in draft paper currently titled "Potential gains of long-distance trade in electricity".
+# PvCompAdv R package
+### Package containing R scripts and data used in draft paper currently titled *Potential gains of long-distance trade in electricity*.
 
 A preprint of a previous version of the paper can be found here: https://ui.adsabs.harvard.edu/abs/2022arXiv220501436L/abstract
 
