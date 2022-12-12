@@ -9,7 +9,7 @@ Status of the paper and corresponding links to text will be updated as review pr
 The package is meant to be used in combination with a `results_replication.R` script (not provided here until paper is published.
 
 The package can be installed in an R script as follows: 
-```
+```R
 install.packages('devtools')
 library(devtools)
 install_github("kawilliges/PvCompAdv")
